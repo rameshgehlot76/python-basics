@@ -12,7 +12,7 @@ fundamentals, written while learning Python from scratch.
 - Match Case statements
 - File Handling
 - Logic Programs
-- Graphics (turtle)
+- Graphics Programs
 - Type Casting
 
 ## Tech Stack
@@ -28,6 +28,6 @@ python file-handling.py
 
 ## Purpose
 These scripts were written as part of learning Python fundamentals 
-from scratch. Every developer starts somewhere! 🚀
+from scratch. Every developer start somewhere! 🚀
 
 
