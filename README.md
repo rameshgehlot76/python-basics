@@ -1,9 +1,9 @@
-# 🐍 Python Basics
+# 🐍Python Basics
 
 A collection of Python practice scripts covering core programming 
 fundamentals, written while learning Python from scratch. 
 
-## Topics Covered
+# Topics Covered
 - If-Else conditions
 - For and While loops
 - Functions
