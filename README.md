@@ -1,4 +1,4 @@
-# 🐍Python Basics
+# 🐍Python Basics  
 
 A collection of Python practice scripts covering core programming 
 fundamentals, written while learning Python from scratch. 
