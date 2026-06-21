@@ -4,8 +4,9 @@
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Level](https://img.shields.io/badge/Level-Beginner-yellow?style=for-the-badge)
 
-A collection of Python practice scripts covering core programming 
-fundamentals, written while learning Python from scratch. 
+A collection of Python practice scripts covering core programing fundamentals - written as part of a structured journey from beginner to advanced Python development. 
+
+---
 
 # Topics Covered
 - If-Else conditions
