@@ -20,8 +20,26 @@ A collection of Python practice scripts covering core programing fundamentals - 
 - Graphics Programs
 - Type Casting
 
-## Tech Stack
-- Python 3
+---
+
+## 🛠️ Tech Stack
+|
+ Technology 
+|
+ Purpose 
+|
+|
+------------
+|
+---------
+|
+|
+ Python 3.10+ 
+|
+ Core language for all scripts 
+|
+
+---
 
 ## How to Run
 Each file is independent. Just run any file directly:
