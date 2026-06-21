@@ -89,3 +89,8 @@ python file-handling.py
 ## 👨‍💻 Author
 **Ramesh Gehlot**  
 [GitHub](https://github.com/rameshgehlot76)
+
+## Purpose
+These scripts were written as part of learning Python fundamentals 
+from scratch. Every developer start somewhere! 🚀
+
