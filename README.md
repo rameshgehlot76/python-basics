@@ -1,5 +1,7 @@
 # 🐍Python Basics
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+
 A collection of Python practice scripts covering core programming 
 fundamentals, written while learning Python from scratch. 
 
