@@ -66,13 +66,15 @@ core Python syntax, logic building and problem solving.
 
 ---
 
-## How to Run
+## 🔧 How to Run
 Each file is independent. Just run any file directly:
 ```bash
 python if-else.py
 python functions.py
 python file-handling.py
 ```
+
+---
 
 ## Purpose
 These scripts were written as part of learning Python fundamentals 
