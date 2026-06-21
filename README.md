@@ -76,6 +76,16 @@ python file-handling.py
 
 ---
 
+## 📚 What I Learned
+- Writing clean, readable Python syntax
+- Building logical thinking through small programs
+- Working with Python's core data structures
+- File handling and reading/writing data
+- Foundation skills that led to building real-world projects 
+  like REST APIs and automation tools
+
+---
+
 ## Purpose
 These scripts were written as part of learning Python fundamentals 
 from scratch. Every developer start somewhere! 🚀
