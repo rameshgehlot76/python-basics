@@ -59,6 +59,13 @@ python-basics/
 
 ---
 
+## ⚙️ How It Works
+Each script is a standalone Python file focused on a single 
+programming concept. They were built progressively while learning 
+core Python syntax, logic building and problem solving.
+
+---
+
 ## How to Run
 Each file is independent. Just run any file directly:
 ```bash
