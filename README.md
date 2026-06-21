@@ -41,6 +41,24 @@ A collection of Python practice scripts covering core programing fundamentals - 
 
 ---
 
+## 📁 Project Structure
+python-basics/
+│
+├── if-else.py
+├── for-whileloop.py
+├── functions.py
+├── f-string.py
+├── file-handling.py
+├── match-case-statement.py
+├── python-list.py
+├── set-dictionary.py
+├── logicprograms.py
+├── graphics.py
+├── typecasting.py
+└── string-python.py
+
+---
+
 ## How to Run
 Each file is independent. Just run any file directly:
 ```bash
