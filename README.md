@@ -52,7 +52,6 @@ python-basics/
 ├── python-list.py
 ├── set-dictionary.py
 ├── logicprograms.py
-├── graphics.py
 ├── typecasting.py
 └── string-python.py
 
