@@ -38,22 +38,3 @@ for i in range(200):
     t.left(59)
 
 turtle.done()
-
-
-# 🌸Flower Fractal (Recursive)
-import turtle
-
-t = turtle.Turtle()
-t.speed(0)
-turtle.bgcolor("black")
-t.color("pink")
-
-def flower(size):
-    if size < 5:
-        return
-    t.circle(size)
-    flower(size - 10)
-
-flower(100)
-turtle.done()
-
