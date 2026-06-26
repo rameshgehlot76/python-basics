@@ -17,7 +17,6 @@ A collection of Python practice scripts covering core programing fundamentals - 
 - Match Case statements
 - File Handling
 - Logic Programs
-- Graphics Programs
 - Type Casting
 
 ---
