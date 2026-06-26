@@ -2,7 +2,7 @@
 # 2D scene (house, tree, and sun) 
 # A sky, sun, grass, house, and tree are created using rectangles, circles, and polygons.
 
-import pygame 
+import pygame
 import math
 
 pygame.init()
@@ -19,8 +19,8 @@ TREE_BROWN = (101,67,33)
 TREE_GREEN = (0,100,0)
 
 
-clock = pygame.time.Clock() 
-running = True 
+clock = pygame.time.Clock()
+running = True
 
 while running:
     for event in pygame.event.get():
