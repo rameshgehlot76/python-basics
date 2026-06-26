@@ -1,9 +1,7 @@
 def welcome():
     print("Hey you are welcome my friend") 
 
-
-ramesh = "A good boy"
-
+ramesh = "MEN"
 
 # if __name__ == "__main__" in python 
 
@@ -11,14 +9,8 @@ ramesh = "A good boy"
 scripts to determine whether the script is being run directly or being imported
 as a module into another script.. '''  
 
-
-
 print(__name__) 
 if __name__ == "__main__": 
     welcome()  
 
 
-
-
-
-        
