@@ -57,31 +57,3 @@ def flower(size):
 flower(100)
 turtle.done()
 
-
-# ❄️Snowflake Fractal (Koch Curve)
-import turtle
-
-t = turtle.Turtle()
-t.speed(0)
-turtle.bgcolor("black")
-t.color("white")
-
-def koch(length, level):
-    if level == 0:
-        t.forward(length)
-        return
-    length /= 3
-    koch(length, level-1)
-    t.left(60)
-    koch(length, level-1)
-    t.right(120)
-    koch(length, level-1)
-    t.left(60)
-    koch(length, level-1)
-
-for _ in range(3):
-    koch(300, 4)
-    t.right(120)
-
-turtle.done()
-
