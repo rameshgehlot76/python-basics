@@ -86,7 +86,7 @@ python file-handling.py
 
 ## Purpose
 These scripts were written as part of learning Python fundamentals 
-from scratch. Every developer start somewhere! 🚀
+from scratch. Every developer start somewhere! 🚀 
 
 ---
 
