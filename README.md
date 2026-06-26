@@ -90,6 +90,8 @@ python file-handling.py
 These scripts were written as part of learning Python fundamentals 
 from scratch. Every developer start somewhere! 🚀
 
+---
+
 ## 👨‍💻 Author
 **Ramesh Gehlot**  
 
