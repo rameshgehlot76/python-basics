@@ -85,25 +85,3 @@ for _ in range(3):
 
 turtle.done()
 
-
-# 🌳Fractal Tree
-import turtle
-
-t = turtle.Turtle()
-t.speed(0)
-turtle.bgcolor("black")
-t.color("lightgreen")
-
-def tree(length):
-    if length < 10:
-        return
-    t.forward(length)
-    t.left(30)
-    tree(length - 10)
-    t.right(60)
-    tree(length - 10)
-    t.left(30)
-    t.backward(length)
-
-tree(80)
-turtle.done()
