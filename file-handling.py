@@ -61,8 +61,8 @@ b = Details()
 print(a.name, a.occupation, a.networth) 
 a.info() 
 
-b.name = "Shubham"
-b.age = 18
+b.name = "Fatima"
+b.age = 98
 print(f"{b.name} age is {b.age}") 
 
 bb.name = "Nikita"
