@@ -2,7 +2,7 @@
 # String formating in python 
 
 country = "India"
-name = "Ramesh" 
+name = "Nick" 
 letter = "Hey my name is {1} and I am from {0}" 
 print(letter.format(country,name))  
 # the above line is imp for string formating 
@@ -140,8 +140,6 @@ for i in range(n):
     print(fibonaccii(i)) 
 
 
-
-
 # Optimized Fibonacci using memoization
 def fibonacci(n, memo={}):
     if n in memo:       # If result already in memo, return it
@@ -159,15 +157,4 @@ print("Fibonacci sequence: ")
 for i in range(n):
     #print(fibonacci(i), end=" ") 
     print(fibonacci(i))  
-
-
-
-
-
-
-
-
-
-
-
 
