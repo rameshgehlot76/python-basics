@@ -1,9 +1,6 @@
 import ramesh
-
 ramesh.welcome() 
-
 print(ramesh.ramesh) 
-
 
 # Next  
 # File handling in python 
@@ -26,7 +23,6 @@ with open('myfile.txt', 'a') as f:
     f.write("Hey I am inside with") 
 
 
-
 # Next Topic 
 # Python Class and Objects 
 
@@ -36,13 +32,13 @@ and implementations of behavior (member functions or methods).
 The user-defined objects are created using the class keyword.'''
 
 class Details: 
-    name = "Rohan"
-    age = 20 
+    name = "Rajesh"
+    age = 24
 
 class Person:
     name = "Ramesh"
     occupation = "AI/ML Engineer"
-    networth = 100 
+    networth = 3600000
     def info(self):
         print(f"{self.name} is a {self.occupation}") 
 
