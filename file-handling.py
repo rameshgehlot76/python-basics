@@ -66,12 +66,11 @@ b.age = 98
 print(f"{b.name} age is {b.age}") 
 
 bb.name = "Nikita"
-bb.occupation = "HR" 
+bb.occupation = "House Wife" 
 bb.info() 
 a.info()
 
-c.info()   # It will print deafult value 
-
+c.info()  # It will print deafult value 
 
 
 # Next Topic 
@@ -157,11 +156,4 @@ t = time.localtime()
 formatted_time = time.strftime("%Y-%m-%d %H:%M:%S" , t) 
 print(formatted_time) 
 # Output: 2025-10-20 17:06:55 
-
-
-
-
-
-
-
 
